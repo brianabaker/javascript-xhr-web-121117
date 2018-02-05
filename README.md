@@ -102,6 +102,7 @@ the request.
 Now that our request is set up and ready to go, we call `send` to make
 it happen.
 
+
 Let's open `index.html` in our browser, open the inspector's `Network`
 tab, and click the link.
 
